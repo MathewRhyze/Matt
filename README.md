@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mathew Rhyze - Portfolio</title>
+  <style>
+    body {
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      max-width: 720px;
+      margin: 40px auto;
+      padding: 0 20px;
+      background: #f9f9f9;
+      color: #222;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    header img {
+      max-width: 140px;
+      border-radius: 50%;
+      margin-bottom: 15px;
+    }
+    h1 {
+      margin-bottom: 8px;
+    }
+    nav a {
+      margin: 0 12px;
+      color: #0077cc;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    section {
+      background: #fff;
+      border-radius: 10px;
+      padding: 24px 30px;
+      margin-bottom: 30px;
+      box-shadow: 0 0 12px rgba(0,0,0,0.08);
+    }
+    h2 {
+      margin-top: 0;
+    }
+    footer {
+      text-align: center;
+      color: #666;
+      font-size: 0.9rem;
+      margin-top: 60px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://i.insider.com/6303e690c9a2da00180920b2?width=1200&format=jpeg" alt="Mathew Rhyze" />
+    <h1>Mathew Rhyze</h1>
+    <p>Video Editor & Content Creator</p>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#work">Work</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      Mathew Rhyze is a video editor working with some of the biggest YouTubers. Born with frontal nasal dysplasia, he has endured 40 surgeries and continues to create compelling video content.
+    </p>
+  </section>
+
+  <section id="work">
+    <h2>My Work</h2>
+    <p>Check out my YouTube channel and social media profiles to see my editing projects and collaborations:</p>
+    <ul>
+      <li><a href="https://www.youtube.com/user/mlggamer72" target="_blank" rel="noopener">YouTube Channel</a></li>
+      <li><a href="https://x.com/mathewrhyze" target="_blank" rel="noopener">X (Twitter)</a></li>
+      <li><a href="https://www.instagram.com/mathewrhyze/" target="_blank" rel="noopener">Instagram</a></li>
+      <li><a href="https://www.snapchat.com/add/mathewrhyze" target="_blank" rel="noopener">Snapchat</a></li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>Feel free to reach out through social media or email.</p>
+    <p>Email: <a href="mailto:mathewrhyze@example.com">mathewrhyze@example.com</a></p>
+  </section>
+
+  <footer>
+    &copy; 2025 Mathew Rhyze. All rights reserved.
+  </footer>
+</body>
+</html>
